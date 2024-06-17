@@ -1,7 +1,8 @@
 # SLU TODOLIST APP SERVER
 
-See the website here: [see website](https://pip.pypa.io/en/stable/).
-Live Server: [see server](https://slutodobackend.onrender.com/)
+See the website here: [see website](https://slu-to-do.onrender.com)
+
+Live Server API: [see server](https://slutodobackend.onrender.com/)
 
 ## Getting Started
 
