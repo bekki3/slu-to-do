@@ -1,0 +1,25 @@
+.formContainer{
+    text-align: center;
+    padding: 20px;
+    border: 1px solid gray;
+}
+.formContainer input[type="text"]{
+    width: 80%;
+    margin: 5px;
+    padding: 3px;
+    font-size: 20px;
+}
+
+.formContainer textarea{
+    width: 80%;
+    margin: 5px;
+    padding: 3px;
+    font-size: 18px;
+}
+
+.formContainer button{
+    width: 80%;
+    margin: 5px;
+    padding: 3px;
+    font-size: 18px;
+}
